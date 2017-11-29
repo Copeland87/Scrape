@@ -1,8 +1,1 @@
-Color Scheme
-
-	- #6BBAA7 AQUA
-	- #FBA100 SUNSHINE
-	- #6C648B LAVENDER
-	- #B6A19E DUSTY ROSE
-
-	-#00A9E9 
+scrape that news

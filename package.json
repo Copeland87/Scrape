@@ -1,7 +1,7 @@
 {
   "name": "Scrape",
   "version": "1.0.0",
-  "description": "All the Good News That's Fit to Scrape",
+  "description": "News to Scrape",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

@@ -1,5 +1,5 @@
 {
-  "name": "allthenews",
+  "name": "Scrape",
   "version": "1.0.0",
   "description": "All the Good News That's Fit to Scrape",
   "main": "server.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/armthepit/allthenews.git"
+    "url": "git+https://github.com/Copeland87/Scrape.git"
   },
-  "author": "John Nowinsky",
+  "author": "Zac Copeland",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/armthepit/allthenews/issues"
+    "url": "https://github.com/Copeland87/Scrape/issues"
   },
-  "homepage": "https://github.com/armthepit/allthenews#readme",
+  "homepage": "https://github.com/Copeland87/Scrape#readme",
   "dependencies": {
     "bluebird": "^3.4.6",
     "body-parser": "^1.15.2",
